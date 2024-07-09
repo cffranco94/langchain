@@ -1,3 +1,6 @@
+[tool.setuptools]
+py-modules = []
+
 [tool.poetry]
 name = "langchain-monorepo"
 version = "0.0.1"
