@@ -6,7 +6,7 @@ build-backend = "poetry.core.masonry.api"
 name = "langchain_experimental"
 version = "0.0.1"
 description = "Your package description"
-authors = ["Your Name catarinafranco"]
+authors = ["Your Name <your.email@example.com>"]
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/langchain-ai/langchain"
@@ -22,10 +22,3 @@ langchain-community = "^0.2.6"
 pytest = "^7.3.0"
 pytest-asyncio = "^0.20.3"
 # Add any other development dependencies
-
-[tool.poetry.scripts]
-# If you have any console scripts, define them here
-
-[build-system]
-requires = ["poetry-core>=1.0.0"]
-build-backend = "poetry.core.masonry.api"
