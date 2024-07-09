@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "langchain_experimental_fork"
+name = "langchain_experimental"
 version = "0.0.0"
 description = ""
 authors = []
