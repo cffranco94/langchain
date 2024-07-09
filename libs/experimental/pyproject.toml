@@ -3,7 +3,7 @@ requires = [ "poetry-core>=1.0.0",]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
-name = "langchain-experimental"
+name = "langchain_experimental"
 version = "0.0.62"
 description = "Building applications with LLMs through composability"
 authors = []
